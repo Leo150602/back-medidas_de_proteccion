@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: medidas_proteccion
